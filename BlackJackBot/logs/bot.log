@@ -1,0 +1,50 @@
+2023-09-06 19:37:21,382 - __main__ - INFO - Started polling!
+2023-09-06 19:37:21,384 - __main__ - INFO - Bot started as @Nurik_Black_bot
+2023-09-06 19:38:12,239 - blackjackbot.gamestore - INFO - Adding game with id 4793547
+2023-09-06 19:38:12,243 - blackjackbot.lang.language - INFO - Loaded translation file translations_es.json - language code: es
+2023-09-06 19:38:12,243 - blackjackbot.lang.language - INFO - Loaded translation file translations_de.json - language code: de
+2023-09-06 19:38:12,244 - blackjackbot.lang.language - INFO - Loaded translation file translations_eo.json - language code: eo
+2023-09-06 19:38:12,245 - blackjackbot.lang.language - INFO - Loaded translation file translations_ru.json - language code: ru
+2023-09-06 19:38:12,246 - blackjackbot.lang.language - INFO - Loaded translation file translations_pt-br.json - language code: pt-br
+2023-09-06 19:38:12,247 - blackjackbot.lang.language - INFO - Loaded translation file translations_en.json - language code: en
+2023-09-06 19:38:12,247 - blackjackbot.lang.language - INFO - Loaded translation file translations_pl.json - language code: pl
+2023-09-06 19:38:12,248 - blackjackbot.lang.language - INFO - Loaded translation file translations_nl.json - language code: nl
+2023-09-06 19:38:13,016 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:38:29,691 - blackjackbot.gamestore - INFO - Adding game with id 8634037
+2023-09-06 19:38:29,963 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:38:39,989 - blackjackbot.gamestore - INFO - Adding game with id 6717732
+2023-09-06 19:38:40,145 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:38:44,652 - blackjackbot.gamestore - INFO - Adding game with id 4180797
+2023-09-06 19:38:44,855 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:38:50,182 - blackjackbot.gamestore - INFO - Adding game with id 3363754
+2023-09-06 19:38:50,384 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:38:54,175 - blackjackbot.gamestore - INFO - Adding game with id 1079928
+2023-09-06 19:38:54,790 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:39:08,253 - blackjackbot.gamestore - INFO - Adding game with id 7791734
+2023-09-06 19:39:08,410 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:39:13,840 - blackjackbot.gamestore - INFO - Adding game with id 6790976
+2023-09-06 19:39:14,061 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:39:18,996 - blackjackbot.gamestore - INFO - Adding game with id 3216339
+2023-09-06 19:39:19,167 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:39:26,475 - blackjackbot.gamestore - INFO - Adding game with id 5446359
+2023-09-06 19:39:26,688 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:39:36,262 - blackjackbot.gamestore - INFO - Adding game with id 5983843
+2023-09-06 19:39:36,465 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-09-06 19:39:43,021 - blackjackbot.gamestore - INFO - Adding game with id 1307154
+2023-09-06 19:39:43,206 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-10-16 19:31:46,915 - __main__ - INFO - Started polling!
+2023-10-16 19:31:46,916 - __main__ - INFO - Bot started as @Nurik_Black_bot
+2023-10-16 19:31:54,386 - blackjackbot.gamestore - INFO - Adding game with id 5445732
+2023-10-16 19:31:54,387 - blackjackbot.lang.language - INFO - Loaded translation file translations_es.json - language code: es
+2023-10-16 19:31:54,387 - blackjackbot.lang.language - INFO - Loaded translation file translations_de.json - language code: de
+2023-10-16 19:31:54,387 - blackjackbot.lang.language - INFO - Loaded translation file translations_eo.json - language code: eo
+2023-10-16 19:31:54,388 - blackjackbot.lang.language - INFO - Loaded translation file translations_ru.json - language code: ru
+2023-10-16 19:31:54,388 - blackjackbot.lang.language - INFO - Loaded translation file translations_pt-br.json - language code: pt-br
+2023-10-16 19:31:54,388 - blackjackbot.lang.language - INFO - Loaded translation file translations_en.json - language code: en
+2023-10-16 19:31:54,389 - blackjackbot.lang.language - INFO - Loaded translation file translations_pl.json - language code: pl
+2023-10-16 19:31:54,389 - blackjackbot.lang.language - INFO - Loaded translation file translations_nl.json - language code: nl
+2023-10-16 19:31:54,556 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 734235567, 'Nurik'
+2023-10-16 19:32:02,940 - blackjackbot.gamestore - INFO - Adding game with id 6123973
+2023-10-16 19:32:03,102 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 712817908, 'Asirush'
+2023-10-16 19:32:09,075 - blackjackbot.gamestore - INFO - Adding game with id 2809280
+2023-10-16 19:32:09,486 - blackjackbot.commands.game.functions - INFO - Player's turn: Player: 712817908, 'Asirush'
